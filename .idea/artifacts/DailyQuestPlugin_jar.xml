@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DailyQuestPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DailyQuestPlugin_jar</output-path>
+    <root id="archive" name="DailyQuestPlugin.jar">
+      <element id="module-output" name="DailyQuestPlugin" />
+    </root>
+  </artifact>
+</component>

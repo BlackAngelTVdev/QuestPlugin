@@ -1,0 +1,11 @@
+name: QuestPlugin
+main: dev.damien.questplugin.Main
+version: 5.1
+api-version: 1.16
+commands:
+  quest:
+    description: Ouvrir le GUI de la quête
+    usage: /quest
+  nextquest:
+    description: Change la quête
+    permission: questplugin.admin
